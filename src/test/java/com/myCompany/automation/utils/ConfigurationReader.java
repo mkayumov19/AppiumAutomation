@@ -1,4 +1,4 @@
-package com.cybertek.automation.utils;
+package com.myCompany.automation.utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;

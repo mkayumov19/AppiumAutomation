@@ -1,6 +1,6 @@
-package com.cybertek.automation.step_definitions;
+package com.myCompany.automation.step_definitions;
 
-import com.cybertek.automation.utils.Driver;
+import com.myCompany.automation.utils.Driver;
 import io.cucumber.java.After;
 
 public class Hooks {

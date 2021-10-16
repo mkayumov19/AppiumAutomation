@@ -1,15 +1,11 @@
-package com.cybertek.automation.pages;
+package com.myCompany.automation.pages;
 
-import com.cybertek.automation.utils.ConfigurationReader;
-import com.cybertek.automation.utils.Driver;
-import com.cybertek.automation.utils.MobileUtils;
-import io.appium.java_client.MobileBy;
+import com.myCompany.automation.utils.ConfigurationReader;
+import com.myCompany.automation.utils.Driver;
+import com.myCompany.automation.utils.MobileUtils;
 import io.appium.java_client.MobileElement;
-import io.appium.java_client.pagefactory.AndroidBy;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
-import io.appium.java_client.pagefactory.iOSXCUITFindBy;
-import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {

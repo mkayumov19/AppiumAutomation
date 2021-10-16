@@ -1,8 +1,6 @@
-package com.cybertek.automation.tests;
+package com.myCompany.automation.tests;
 
-import com.cybertek.automation.utils.MobileUtils;
-import io.appium.java_client.AppiumDriver;
-import io.appium.java_client.android.AndroidDriver;
+import com.myCompany.automation.utils.MobileUtils;
 import io.appium.java_client.remote.MobileCapabilityType;
 import org.junit.Test;
 import org.openqa.selenium.By;

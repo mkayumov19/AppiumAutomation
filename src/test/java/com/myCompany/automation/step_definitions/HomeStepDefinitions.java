@@ -1,6 +1,6 @@
-package com.cybertek.automation.step_definitions;
+package com.myCompany.automation.step_definitions;
 
-import com.cybertek.automation.pages.HomePage;
+import com.myCompany.automation.pages.HomePage;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;

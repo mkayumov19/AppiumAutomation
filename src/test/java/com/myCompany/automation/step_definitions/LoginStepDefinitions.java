@@ -1,6 +1,6 @@
-package com.cybertek.automation.step_definitions;
+package com.myCompany.automation.step_definitions;
 
-import com.cybertek.automation.pages.LoginPage;
+import com.myCompany.automation.pages.LoginPage;
 import io.cucumber.java.en.Given;
 
 public class LoginStepDefinitions {

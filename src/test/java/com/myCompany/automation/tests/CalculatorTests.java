@@ -1,4 +1,4 @@
-package com.cybertek.automation.tests;
+package com.myCompany.automation.tests;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileBy;
@@ -10,11 +10,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Platform;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -61,5 +57,6 @@ public class CalculatorTests {
         Assert.assertEquals("12", result.getText());
         Thread.sleep(3000);
         driver.closeApp();
+
     }
 }

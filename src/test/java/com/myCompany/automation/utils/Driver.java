@@ -1,4 +1,4 @@
-package com.cybertek.automation.utils;
+package com.myCompany.automation.utils;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
